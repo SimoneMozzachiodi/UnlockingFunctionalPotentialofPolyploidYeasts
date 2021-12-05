@@ -1,9 +1,10 @@
 # UnlockingFunctionalPotentialofPolyploidYeasts
 Repository contains code used in the work "Unlocking the functional potential of polyploid yeasts"
 
-This folder contains the scripts used for loss of heterozygosity regions detections in RTG derived from OS1364 strain.
+The folders contain the scripts used for loss of heterozygosity regions detections in RTG derived from sterile polyploid strains.
 The scripts need to be launched in order following the number prefix in the script (e.g. 1.xxx, then 1.1xxx, then 2...).
 
+OS1364 folder
 Script prefix / explanation
 
 1./1.1/ -> mapping short reads sequencing of RTG samples on S288C reference, duplicate removal and coverage calculation
