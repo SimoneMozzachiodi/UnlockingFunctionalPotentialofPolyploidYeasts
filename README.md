@@ -1,6 +1,10 @@
 # UnlockingFunctionalPotentialofPolyploidYeasts
 Repository contains code used in the work "Unlocking the functional potential of polyploid yeasts"
 
+**Abstract:** 
+Breeding and domestication have generated widely exploited crops, animals and microbes. However, many Saccharomyces cerevisiae industrial strains have complex polyploid genomes and are sterile, preventing genetic improvement strategies based on breeding. Here, we present a novel strain improvement approach based on the budding yeasts’ property to promote genetic recombination when meiosis is interrupted and cells return-to-mitotic-growth (RTG). We demonstrated that two unrelated sterile industrial strains with complex triploid and tetraploid genomes were RTG-competent and developed a visual screening for easy and high-throughput identification of recombined RTG clones based on colony phenotypes. Sequencing of the evolved clones revealed unprecedented levels of RTG-induced genome-wide recombination. We generated and extensively phenotyped a RTG library and identified clones with superior biotechnological traits. Thus, we propose the RTG-framework as a fully non-GMO workflow to rapidly improve industrial yeasts that can be easily brought to the market.
+
+
 The folders contain the scripts used for loss of heterozygosity regions detections in RTG derived from sterile polyploid strains.
 The scripts need to be launched in order following the number prefix in the script (e.g. 1.xxx, then 1.1xxx, then 2...).
 
