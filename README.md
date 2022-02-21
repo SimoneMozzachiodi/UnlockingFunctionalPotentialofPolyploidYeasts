@@ -28,8 +28,9 @@ Script prefix / explanation
 6./ -> Intersect the set of variants called in each RTG dataset with the variants genotyped for the parental strain to use the same
        set of heterozygous markers for AF shift detection
        
-7./ -> Evaluation of stretches of markers with allele frequency variation which implies recombination upon RTG.
-       This file create intermediate file used as control (e.g. table of "LOH" based on the length or table
-       of markers with tabulated the respective allele frequency shift or genotype)
+7./ -> Evaluation of stretches of markers with allele frequency variation which implies recombination upon RTG
+       before any filtering step (CNV filter, shared LOH filter).
+       This file create intermediate file used as control (e.g. table of "LOH, AF shift regions", Table of markers
+       with detected AF shift) and used for plotting regions with AF shift.
 
 
