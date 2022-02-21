@@ -7,6 +7,7 @@ Breeding and domestication have generated widely exploited crops, animals and mi
 
 The folders contain the scripts used for loss of heterozygosity regions detections in RTG derived from sterile polyploid strains.
 The scripts need to be launched in order following the number prefix in the script (e.g. 1.xxx, then 1.1xxx, then 2...).
+Feel free to contact me if you are interested in using scripts linked to this work.
 
 OS1364 folder
 Script prefix / explanation
