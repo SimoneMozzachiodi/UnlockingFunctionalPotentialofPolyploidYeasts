@@ -16,7 +16,7 @@ Script prefix / explanation
 
 2./ -> extraction of coverage data from the files produced above and creation of .txt file with coverage by position
 
-3.1.1./ -> Plot of coverage profile across all 16 chromosomes based on S288C coordinates
+2.1./ -> Plot of coverage profile across all 16 chromosomes based on S288C coordinates
 
 3.1.2./3.1. -> indexing of vcf of OS1364 obtained by mapping short reads from https://doi.org/10.1038/s41586-018-0030-5 mapped against S288C reference
               p3 is for ploidy3 chromosome, p4 is for ploidy 4 chromosomes (chromosome III)
