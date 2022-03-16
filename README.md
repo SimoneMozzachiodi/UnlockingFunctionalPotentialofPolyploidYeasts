@@ -9,7 +9,8 @@ The folders contain the scripts used for analysis of RTG derived from sterile po
 either the id of some of the RTG analysed as example, or a commented entry in which it is specified where the id of the samples
 need to be indicated.
 The scripts need to be launched in order following the number prefix in the script (e.g. 1.xxx, then 1.1xxx, then 2...).
-Scripts without numbering use either the output of others scripts of are standalone and can be launched at the end.
+Scripts without numbering use either the output of others scripts of are standalone and are made to be launched at the end
+of the numbered scripts.
 Feel free to contact me for any questions regarding the uploaded material.
 
 OS1364 folder
